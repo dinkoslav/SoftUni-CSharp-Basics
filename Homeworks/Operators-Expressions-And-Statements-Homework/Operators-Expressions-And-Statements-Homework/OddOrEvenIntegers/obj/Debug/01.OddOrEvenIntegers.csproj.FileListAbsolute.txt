@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Homeworks\Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements-Homework\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Homeworks\Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements-Homework\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Homeworks\Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements-Homework\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

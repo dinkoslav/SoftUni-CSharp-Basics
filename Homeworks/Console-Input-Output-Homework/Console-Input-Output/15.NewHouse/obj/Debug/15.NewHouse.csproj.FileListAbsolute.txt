@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\15.NewHouse\bin\Debug\15.NewHouse.exe.config
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\15.NewHouse\bin\Debug\15.NewHouse.exe
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\15.NewHouse\bin\Debug\15.NewHouse.pdb
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\15.NewHouse\obj\Debug\15.NewHouse.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\15.NewHouse\obj\Debug\15.NewHouse.exe
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\15.NewHouse\obj\Debug\15.NewHouse.pdb

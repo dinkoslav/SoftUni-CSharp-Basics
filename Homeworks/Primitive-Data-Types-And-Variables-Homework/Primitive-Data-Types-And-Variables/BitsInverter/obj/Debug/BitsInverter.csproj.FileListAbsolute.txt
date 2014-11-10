@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BitsInverter\bin\Debug\BitsInverter.exe.config
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BitsInverter\bin\Debug\BitsInverter.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BitsInverter\bin\Debug\BitsInverter.pdb
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BitsInverter\obj\Debug\BitsInverter.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BitsInverter\obj\Debug\BitsInverter.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BitsInverter\obj\Debug\BitsInverter.pdb

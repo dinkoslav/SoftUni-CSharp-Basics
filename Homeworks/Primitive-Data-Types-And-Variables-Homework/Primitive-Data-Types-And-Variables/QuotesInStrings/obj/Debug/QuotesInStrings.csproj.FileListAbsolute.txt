@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\QuotesInStrings\obj\Debug\QuotesInStrings.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

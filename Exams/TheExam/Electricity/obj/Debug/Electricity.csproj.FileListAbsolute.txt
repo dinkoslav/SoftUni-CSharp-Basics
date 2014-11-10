@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\Electricity\bin\Debug\Electricity.exe.config
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\Electricity\bin\Debug\Electricity.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\Electricity\bin\Debug\Electricity.pdb
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\Electricity\obj\Debug\Electricity.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\Electricity\obj\Debug\Electricity.pdb

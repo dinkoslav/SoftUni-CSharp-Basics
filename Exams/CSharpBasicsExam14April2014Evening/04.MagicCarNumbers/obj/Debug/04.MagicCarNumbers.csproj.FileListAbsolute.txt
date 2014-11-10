@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.exe.config
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\04.MagicCarNumbers\bin\Debug\04.MagicCarNumbers.pdb
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\04.MagicCarNumbers\obj\Debug\04.MagicCarNumbers.pdb

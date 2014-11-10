@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\02.BiggestTriple\bin\Debug\02.BiggestTriple.exe.config
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\02.BiggestTriple\bin\Debug\02.BiggestTriple.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\02.BiggestTriple\bin\Debug\02.BiggestTriple.pdb
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\02.BiggestTriple\obj\Debug\02.BiggestTriple.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\02.BiggestTriple\obj\Debug\02.BiggestTriple.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\02.BiggestTriple\obj\Debug\02.BiggestTriple.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\bin\Debug\01.FitBoxInBox.exe.config
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\bin\Debug\01.FitBoxInBox.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\bin\Debug\01.FitBoxInBox.pdb
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\obj\Debug\01.FitBoxInBox.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\obj\Debug\01.FitBoxInBox.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\obj\Debug\01.FitBoxInBox.pdb

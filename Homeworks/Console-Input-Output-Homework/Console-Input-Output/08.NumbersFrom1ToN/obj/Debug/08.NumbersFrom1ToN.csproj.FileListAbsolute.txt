@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.pdb
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.exe
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.pdb

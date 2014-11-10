@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe.config
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.pdb
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\problem1\bin\Debug\problem1.exe.config
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\problem1\bin\Debug\problem1.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\problem1\bin\Debug\problem1.pdb
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\problem1\obj\Debug\problem1.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\problem1\obj\Debug\problem1.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\problem1\obj\Debug\problem1.pdb

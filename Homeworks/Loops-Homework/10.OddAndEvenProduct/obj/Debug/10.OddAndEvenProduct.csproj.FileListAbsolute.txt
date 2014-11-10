@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

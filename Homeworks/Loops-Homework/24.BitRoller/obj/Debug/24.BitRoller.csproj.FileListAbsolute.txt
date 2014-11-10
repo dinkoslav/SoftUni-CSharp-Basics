@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\24.BitRoller\bin\Debug\24.BitRoller.exe.config
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\24.BitRoller\bin\Debug\24.BitRoller.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\24.BitRoller\bin\Debug\24.BitRoller.pdb
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\24.BitRoller\obj\Debug\24.BitRoller.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\24.BitRoller\obj\Debug\24.BitRoller.pdb

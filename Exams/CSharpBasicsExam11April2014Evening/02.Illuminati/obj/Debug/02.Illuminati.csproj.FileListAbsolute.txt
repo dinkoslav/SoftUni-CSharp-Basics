@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\02.Illuminati\bin\Debug\02.Illuminati.exe.config
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\02.Illuminati\bin\Debug\02.Illuminati.exe
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\02.Illuminati\bin\Debug\02.Illuminati.pdb
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\02.Illuminati\obj\Debug\02.Illuminati.exe
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\02.Illuminati\obj\Debug\02.Illuminati.pdb

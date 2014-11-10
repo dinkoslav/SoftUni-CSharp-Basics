@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\05.CatchTheBits\bin\Debug\05.CatchTheBits.exe.config
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\05.CatchTheBits\bin\Debug\05.CatchTheBits.exe
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\05.CatchTheBits\bin\Debug\05.CatchTheBits.pdb
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\05.CatchTheBits\obj\Debug\05.CatchTheBits.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\05.CatchTheBits\obj\Debug\05.CatchTheBits.exe
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam11April2014Evening\05.CatchTheBits\obj\Debug\05.CatchTheBits.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\05.CalculateFactorialDevided\bin\Debug\05.CalculateFactorialDevided.exe.config
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\05.CalculateFactorialDevided\bin\Debug\05.CalculateFactorialDevided.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\05.CalculateFactorialDevided\bin\Debug\05.CalculateFactorialDevided.pdb
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\05.CalculateFactorialDevided\obj\Debug\05.CalculateFactorialDevided.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\05.CalculateFactorialDevided\obj\Debug\05.CalculateFactorialDevided.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\05.CalculateFactorialDevided\obj\Debug\05.CalculateFactorialDevided.pdb

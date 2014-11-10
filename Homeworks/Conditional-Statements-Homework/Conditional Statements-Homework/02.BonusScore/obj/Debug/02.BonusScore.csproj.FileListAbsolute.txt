@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\02.BonusScore\bin\Debug\02.BonusScore.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\02.BonusScore\bin\Debug\02.BonusScore.pdb
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\02.BonusScore\obj\Debug\02.BonusScore.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\02.BonusScore\obj\Debug\02.BonusScore.pdb

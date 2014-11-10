@@ -1,0 +1,8 @@
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\22.Arrow\bin\Debug\22.Arrow.exe.config
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\22.Arrow\bin\Debug\22.Arrow.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\22.Arrow\bin\Debug\22.Arrow.pdb
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\22.Arrow\obj\Debug\22.Arrow.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\22.Arrow\obj\Debug\22.Arrow.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\22.Arrow\obj\Debug\22.Arrow.pdb

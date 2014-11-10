@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb

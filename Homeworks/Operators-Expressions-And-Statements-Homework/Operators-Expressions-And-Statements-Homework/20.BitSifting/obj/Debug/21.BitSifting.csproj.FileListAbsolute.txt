@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitSifting\bin\Debug\20.BitSifting.exe.config
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitSifting\bin\Debug\20.BitSifting.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitSifting\bin\Debug\20.BitSifting.pdb
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitSifting\obj\Debug\20.BitSifting.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitSifting\obj\Debug\20.BitSifting.pdb
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitSifting\obj\Debug\21.BitSifting.csprojResolveAssemblyReference.cache

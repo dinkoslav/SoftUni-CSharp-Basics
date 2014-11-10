@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam12April2014Evening\01.ExamSchedule\bin\Debug\01.ExamSchedule.exe.config
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam12April2014Evening\01.ExamSchedule\bin\Debug\01.ExamSchedule.exe
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam12April2014Evening\01.ExamSchedule\bin\Debug\01.ExamSchedule.pdb
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam12April2014Evening\01.ExamSchedule\obj\Debug\01.ExamSchedule.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam12April2014Evening\01.ExamSchedule\obj\Debug\01.ExamSchedule.exe
+D:\Homeworks\SoftUni\CSharp\Exams\CSharpBasicsExam12April2014Evening\01.ExamSchedule\obj\Debug\01.ExamSchedule.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\05.BitFlipper\bin\Debug\05.BitFlipper.exe.config
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\05.BitFlipper\bin\Debug\05.BitFlipper.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\05.BitFlipper\bin\Debug\05.BitFlipper.pdb
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\05.BitFlipper\obj\Debug\05.BitFlipper.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\05.BitFlipper\obj\Debug\05.BitFlipper.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\05.BitFlipper\obj\Debug\05.BitFlipper.pdb

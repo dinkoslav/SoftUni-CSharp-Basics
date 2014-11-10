@@ -1,0 +1,9 @@
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\03.WineGlass\bin\Debug\03.WineGlass.exe.config
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\03.WineGlass\bin\Debug\03.WineGlass.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\03.WineGlass\bin\Debug\03.WineGlass.pdb
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\03.WineGlass\obj\Debug\03.WineGlass.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\03.WineGlass\obj\Debug\03.WineGlass.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\CSharpBasicsExam14April2014Morning\03.WineGlass\obj\Debug\03.WineGlass.pdb
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\CSharpBasicsExam14April2014Morning\03.WineGlass\bin\Debug\03.WineGlass.exe.config
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\CSharpBasicsExam14April2014Morning\03.WineGlass\obj\Debug\03.WineGlass.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\CSharpBasicsExam14April2014Morning\03.WineGlass\obj\Debug\03.WineGlass.pdb

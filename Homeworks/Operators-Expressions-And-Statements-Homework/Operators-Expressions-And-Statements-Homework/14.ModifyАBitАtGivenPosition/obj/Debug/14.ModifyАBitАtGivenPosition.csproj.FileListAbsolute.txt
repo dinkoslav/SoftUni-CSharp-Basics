@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\14.ModifyАBitАtGivenPosition\bin\Debug\14.ModifyАBitАtGivenPosition.exe.config
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\14.ModifyАBitАtGivenPosition\bin\Debug\14.ModifyАBitАtGivenPosition.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\14.ModifyАBitАtGivenPosition\bin\Debug\14.ModifyАBitАtGivenPosition.pdb
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\14.ModifyАBitАtGivenPosition\obj\Debug\14.ModifyАBitАtGivenPosition.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\14.ModifyАBitАtGivenPosition\obj\Debug\14.ModifyАBitАtGivenPosition.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\14.ModifyАBitАtGivenPosition\obj\Debug\14.ModifyАBitАtGivenPosition.pdb

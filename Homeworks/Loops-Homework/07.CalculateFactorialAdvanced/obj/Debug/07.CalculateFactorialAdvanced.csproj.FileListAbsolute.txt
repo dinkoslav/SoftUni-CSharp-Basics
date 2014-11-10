@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\07.CalculateFactorialAdvanced\bin\Debug\07.CalculateFactorialAdvanced.exe.config
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\07.CalculateFactorialAdvanced\bin\Debug\07.CalculateFactorialAdvanced.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\07.CalculateFactorialAdvanced\bin\Debug\07.CalculateFactorialAdvanced.pdb
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\07.CalculateFactorialAdvanced\obj\Debug\07.CalculateFactorialAdvanced.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\07.CalculateFactorialAdvanced\obj\Debug\07.CalculateFactorialAdvanced.pdb

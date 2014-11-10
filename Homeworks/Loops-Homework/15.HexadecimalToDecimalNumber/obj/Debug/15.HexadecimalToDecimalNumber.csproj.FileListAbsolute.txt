@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe.config
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.pdb

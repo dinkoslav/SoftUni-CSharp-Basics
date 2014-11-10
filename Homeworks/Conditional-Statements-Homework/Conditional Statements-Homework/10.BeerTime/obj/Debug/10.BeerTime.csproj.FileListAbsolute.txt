@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\10.BeerTime\bin\Debug\10.BeerTime.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\10.BeerTime\bin\Debug\10.BeerTime.pdb
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\10.BeerTime\obj\Debug\10.BeerTime.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\10.BeerTime\obj\Debug\10.BeerTime.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Conditional Statements-Homework\10.BeerTime\obj\Debug\10.BeerTime.pdb

@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.exe.config
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.pdb
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.pdb

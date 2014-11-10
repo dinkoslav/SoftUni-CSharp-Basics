@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\21.OddEvenElements\bin\Debug\21.OddEvenElements.exe.config
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\21.OddEvenElements\bin\Debug\21.OddEvenElements.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\21.OddEvenElements\bin\Debug\21.OddEvenElements.pdb
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\21.OddEvenElements\obj\Debug\21.OddEvenElements.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\21.OddEvenElements\obj\Debug\21.OddEvenElements.exe
+D:\Homeworks\SoftUni\CSharp\Loops-Homework\21.OddEvenElements\obj\Debug\21.OddEvenElements.pdb

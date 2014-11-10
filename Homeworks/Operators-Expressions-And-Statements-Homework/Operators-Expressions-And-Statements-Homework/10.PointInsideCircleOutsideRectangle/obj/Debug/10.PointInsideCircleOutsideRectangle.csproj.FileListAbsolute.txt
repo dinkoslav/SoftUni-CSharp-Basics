@@ -1,0 +1,8 @@
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe.config
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.pdb
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.pdb
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Homeworks\Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements-Homework\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe.config
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Homeworks\Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements-Homework\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Homeworks\Operators-Expressions-And-Statements-Homework\Operators-Expressions-And-Statements-Homework\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.pdb

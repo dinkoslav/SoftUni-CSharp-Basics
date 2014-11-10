@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb

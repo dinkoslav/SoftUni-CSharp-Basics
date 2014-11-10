@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe.config
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\ChangeEvenBits\bin\Debug\ChangeEvenBits.pdb
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\ChangeEvenBits\obj\Debug\ChangeEvenBits.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\ChangeEvenBits\obj\Debug\ChangeEvenBits.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\ChangeEvenBits\obj\Debug\ChangeEvenBits.pdb

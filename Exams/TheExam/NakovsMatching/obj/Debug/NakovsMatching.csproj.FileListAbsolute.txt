@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\NakovsMatching\bin\Debug\NakovsMatching.exe.config
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\NakovsMatching\bin\Debug\NakovsMatching.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\NakovsMatching\bin\Debug\NakovsMatching.pdb
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\NakovsMatching\obj\Debug\NakovsMatching.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\NakovsMatching\obj\Debug\NakovsMatching.exe
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\TheExam\NakovsMatching\obj\Debug\NakovsMatching.pdb

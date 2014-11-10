@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\13.WorkHours\bin\Debug\13.WorkHours.exe.config
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\13.WorkHours\bin\Debug\13.WorkHours.exe
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\13.WorkHours\bin\Debug\13.WorkHours.pdb
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\13.WorkHours\obj\Debug\13.WorkHours.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\13.WorkHours\obj\Debug\13.WorkHours.exe
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\13.WorkHours\obj\Debug\13.WorkHours.pdb

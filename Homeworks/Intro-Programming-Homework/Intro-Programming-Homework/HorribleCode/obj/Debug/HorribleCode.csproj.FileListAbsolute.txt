@@ -1,0 +1,8 @@
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe.config
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.pdb
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.exe
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.pdb
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe.config
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.exe
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe.config
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.pdb
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.pdb

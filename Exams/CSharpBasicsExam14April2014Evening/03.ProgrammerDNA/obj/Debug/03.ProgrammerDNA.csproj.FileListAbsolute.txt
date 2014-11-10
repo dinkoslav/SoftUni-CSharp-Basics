@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe.config
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.pdb
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.exe
+D:\Homeworks\SoftUni\CSharp\Conditional Statements-Homework\Solution1\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.pdb

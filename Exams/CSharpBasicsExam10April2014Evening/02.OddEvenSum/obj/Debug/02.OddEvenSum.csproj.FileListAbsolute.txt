@@ -1,0 +1,1 @@
+D:\Homeworks\SoftUni\CSharp\CSharpBasics\Exams\CSharpBasicsExam10April2014Evening\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe.config

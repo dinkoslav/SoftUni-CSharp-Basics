@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb

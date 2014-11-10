@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb

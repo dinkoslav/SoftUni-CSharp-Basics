@@ -1,0 +1,10 @@
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Homeworks\SoftUni\CSharp\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.pdb

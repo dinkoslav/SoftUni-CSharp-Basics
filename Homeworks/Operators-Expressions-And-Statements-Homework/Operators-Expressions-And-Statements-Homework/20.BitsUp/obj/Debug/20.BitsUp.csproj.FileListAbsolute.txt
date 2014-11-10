@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitsUp\bin\Debug\20.BitsUp.exe.config
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitsUp\bin\Debug\20.BitsUp.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitsUp\bin\Debug\20.BitsUp.pdb
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitsUp\obj\Debug\20.BitsUp.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitsUp\obj\Debug\20.BitsUp.exe
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitsUp\obj\Debug\20.BitsUp.pdb

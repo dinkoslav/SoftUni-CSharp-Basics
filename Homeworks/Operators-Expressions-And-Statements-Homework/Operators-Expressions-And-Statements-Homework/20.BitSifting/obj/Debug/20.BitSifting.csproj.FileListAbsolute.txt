@@ -1,0 +1,1 @@
+D:\Homeworks\SoftUni\CSharp\Operators-Expressions-And-Statements\Operators-Expressions-And-Statements\20.BitSifting\bin\Debug\20.BitSifting.exe.config

@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

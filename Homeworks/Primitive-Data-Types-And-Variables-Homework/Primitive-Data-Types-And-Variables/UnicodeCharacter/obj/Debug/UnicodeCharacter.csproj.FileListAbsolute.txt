@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\Homeworks\SoftUni\CSharp\Primitive-Data-Types-And-Variables\Primitive-Data-Types-And-Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

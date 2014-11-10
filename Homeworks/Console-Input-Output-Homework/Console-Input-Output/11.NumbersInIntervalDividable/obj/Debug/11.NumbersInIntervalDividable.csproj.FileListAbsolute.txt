@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\11.NumbersInIntervalDividable\bin\Debug\11.NumbersInIntervalDividable.exe.config
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\11.NumbersInIntervalDividable\bin\Debug\11.NumbersInIntervalDividable.exe
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\11.NumbersInIntervalDividable\bin\Debug\11.NumbersInIntervalDividable.pdb
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\11.NumbersInIntervalDividable\obj\Debug\11.NumbersInIntervalDividable.exe
+D:\Homeworks\SoftUni\CSharp\Console-Input-Output-Homework\Console-Input-Output\11.NumbersInIntervalDividable\obj\Debug\11.NumbersInIntervalDividable.pdb
